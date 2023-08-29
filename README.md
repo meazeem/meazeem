@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @meazeem
+- 👋 Hi, I’m Azeem Shaik
 - 👀 I’m interested to work on new opportunities that helps to grow my technical knowledge.
 - 🌱 I’m currently learning Docker and k8s
 - 💞️ I’m looking to collaborate on any freelance work.
-- 📫 You can reach me on +91-897068188 and meazeem.shaik@gmail.com.
+- 📫 You can reach me on +91-8970681886 and meazeem.shaik@gmail.com.
 
 - 
 
