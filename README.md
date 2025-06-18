@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Azeem Shaik
-- 👀 I’m interested to work on new opportunities that helps to grow my technical knowledge.
-- 🌱 I’m currently learning Docker and k8s
-- 💞️ I’m looking to collaborate on any freelance work.
-- 📫 You can reach me on +91-8970681886 and meazeem.shaik@gmail.com.
+Hi,
 
-- 
+I’m a seasoned C++ developer with over 14 years of hands-on experience in telecom systems, messaging protocols, and backend architecture. 
+I’ve built and deployed a full-featured RCS platform from scratch, including interworking with SMSC/MMSC, store-and-forward messaging, and support for RBM features like verified sender profiles and chatbots.
 
-<!---
-meazeem/meazeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you're looking for someone who deeply understands SIP/MSRP messaging flows, performance optimization, and protocol compliance under production loads—I can help architect, build, or debug your system with confidence.
+
+Let’s connect to discuss how I can bring value to your project.
+
+Thanks,  
+Azeem  
+meazeem.shaik@gmail.com
++91-6300849439
